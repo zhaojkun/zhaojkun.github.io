@@ -50,6 +50,7 @@ tag_map:
 subnav:
     github:"htts://github.com/zhaojkun"
     weibo:"http://weibo.com/zhaojiangkun"
+    wiki:"/wiki"
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
