@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lrita.github.io
+url: https://zhaojkun.github.io
 date_format: "ordinal"
-title: 源代码
+title: 点滴
 subtitle: ""
-description: "lrita's blog"
-keywords: 源代码, golang, c, cpp, c++, rust
+description: "zhaojkun's blog"
+keywords: 源代码, golang, python
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 4
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Neal Hu
-organization: Weibo, Inc.
-organization_url: http://www.weibo.com
-github_username: lrita
-location: Beijing, China
-email: lrita@163.com
+author: Jiangkun Zhao
+organization: Eleme, Inc.
+organization_url: http://www.ele.me
+github_username: zhaojkun
+location: Shanghai, China
+email: zhaojk90@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: lrita/lrita.github.io
+repository: zhaojkun/zhaojkun.github.io
 
 # ---------------- #
 #      Comments    #
@@ -96,5 +96,5 @@ google:
 # ---------------- #
 #      Datas       #
 # ---------------- #
-skill_software_keywords: [C, C++, Python, Go, Rust]
-skill_research: [分布式, 存储, 消息队列]
+skill_software_keywords: [C, C++, Python, Go]
+skill_research: [分布式, 存储]

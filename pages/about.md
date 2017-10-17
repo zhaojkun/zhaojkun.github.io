@@ -15,9 +15,9 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@lrita](https://github.com/lrita)
+* GitHub：[@lrita](https://github.com/zhaojkun)
 * 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@苟12之](http://weibo.com/u/3444130812)
+* 微博: [微博](http://weibo.com/u/207899876)
 
 ## Skill Keywords
 
